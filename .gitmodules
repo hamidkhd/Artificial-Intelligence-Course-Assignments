@@ -1,0 +1,21 @@
+[submodule "IntroductionToAI"]
+	path = IntroductionToAI
+	url = https://github.com/hamidkhd/IntroductionToAI
+[submodule "SnakeGame-Search"]
+	path = SnakeGame-Search
+	url = https://github.com/hamidkhd/SnakeGame-Search
+[submodule "LogicalGates-GeneticAlgorithm"]
+	path = LogicalGates-GeneticAlgorithm
+	url = https://github.com/hamidkhd/LogicalGates-GeneticAlgorithm
+[submodule "Sudoku-GeneticAlgorithm"]
+	path = Sudoku-GeneticAlgorithm
+	url = https://github.com/hamidkhd/Sudoku-GeneticAlgorithm
+[submodule "FeedForwardNN-Classifier-WithTF"]
+	path = FeedForwardNN-Classifier-WithTF
+	url = https://github.com/hamidkhd/FeedForwardNN-Classifier-WithTF
+[submodule "CommentClassifier-NaiveBayes"]
+	path = CommentClassifier-NaiveBayes
+	url = https://github.com/hamidkhd/CommentClassifier-NaiveBayes
+[submodule "HousePricePrediction-ML"]
+	path = HousePricePrediction-ML
+	url = https://github.com/hamidkhd/HousePricePrediction-ML
